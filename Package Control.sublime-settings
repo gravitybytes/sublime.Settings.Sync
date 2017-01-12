@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPick",
+		"Emmet",
+		"Git",
+		"Highlight Build Errors",
+		"HTMLBeautify",
+		"Package Control",
+		"Predawn Monokai",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeOnSaveBuild",
+		"Sync Settings",
+		"Theme - DC",
+		"Theme - TwoDark"
+	]
+}
